@@ -23,6 +23,7 @@ OIBSIP/[TrackName]-[Task]-[ProjectName]/
 |---|--------|------|--------|
 | 1 | [DataScience-Task1-IrisFlowerClassification](./DataScience-Task1-IrisFlowerClassification/) | Iris Flower Classification | ✅ Done |
 | 4 | [DataScience-Task4-SMSSpamDetection](./DataScience-Task4-SMSSpamDetection/) | SMS Spam Detection | ✅ Done |
+| 5 | [DataScience-Task5-SalesPrediction](./DataScience-Task5-SalesPrediction/) | Sales Prediction Using Advertising Spend | ✅ Done |
 
 ---
 

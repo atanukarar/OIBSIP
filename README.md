@@ -22,6 +22,7 @@ OIBSIP/[TrackName]-[Task]-[ProjectName]/
 | # | Folder | Task | Status |
 |---|--------|------|--------|
 | 1 | [DataScience-Task1-IrisFlowerClassification](./DataScience-Task1-IrisFlowerClassification/) | Iris Flower Classification | ✅ Done |
+| 4 | [DataScience-Task4-SMSSpamDetection](./DataScience-Task4-SMSSpamDetection/) | SMS Spam Detection | ✅ Done |
 
 ---
 
